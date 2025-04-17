@@ -1,2 +1,2 @@
 # Kotlin-Exercism-AcronymKotlin-Exercism-Acronym
-My Solution for Kotlin-Exercism-Acronym Exercise 
+## This is my solution to the Acronym exercise from [Exercism.org](https://exercism.org/tracks/kotlin/exercises/acronym)
